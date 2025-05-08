@@ -1,4 +1,4 @@
-module github.com/lithictech/runtime-js-env
+module github.com/KvalitetsIT/runtime-js-env
 
 go 1.23.0
 
